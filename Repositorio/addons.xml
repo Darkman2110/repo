@@ -30,8 +30,8 @@
   </extension>
 </addon>
 
-<addon id="repository.DarkmanList" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.0" provider-name="Darkman2110">
-    <extension point="xbmc.addon.repository" name="Mi repositorio">
+<addon id="repository.DarkmanList" name="[COLOR lime]DarkmanList[/COLOR] Repo" version="1.0.0" provider-name="Darkman2110">
+    <extension point="xbmc.addon.repository" name="DarkmanList">
         <info>https://raw.githubusercontent.com/Darkman2110/repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Darkman2110/repo/master/Repositorio/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/Darkman2110/repo/master/Repositorio/addons.xml</datadir>
