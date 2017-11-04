@@ -30,7 +30,7 @@
   </extension>
 </addon>
 
-    <addon id="repository.DarkmanList" name="DarkmanList.repo" version="1.0.0" provider-name="Darkman2110">
+    <addon id="repository.DarkmanList" name="DarkmanList.Repo" version="1.0.0" provider-name="Darkman2110">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
