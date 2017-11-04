@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.DarkmanList"
        name="DarkmanList"
-       version="3.0.1"
+       version="3.0.2"
        provider-name="DarkmanList">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
