@@ -9,7 +9,7 @@
             <datadir zip="true">https://raw.githubusercontent.com/Darkman2110/repo/master/Repositorio/</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
-            <summary>Repositorio para DarkmanList 1.0.2</summary>
+            <summary>Repositorio  DarkmanList 1.0.3</summary>
             <description>Repositorio que pertenece a DarkmanList.</description>
             <platform>all</platform>
     </extension>
